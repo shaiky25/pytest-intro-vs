@@ -12,3 +12,6 @@ def divide(x,y):
 
 def modulus(x):
     return abs(x)
+
+def percentage(x,y):
+    return round((x/y),2)
